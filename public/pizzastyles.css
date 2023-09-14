@@ -1,0 +1,47 @@
+.nav_barbg{
+  background-color: red;
+}
+
+.nav_barcl{
+  color: white !important;
+  padding: 30px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 30px;   
+}
+
+.nav_barcl:hover{
+  color: red !important;
+  background-color: white;
+}
+
+.menu:hover{
+  color: white !important;
+}
+
+#food{
+  display: flex;
+  flex-direction: row;
+  margin-left: 150px;
+}
+
+/* .flex{
+  display: flex;
+  flex-direction: row;
+} */
+
+.foot{
+  background-color: red;
+  height: 10vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+  width: 100% !important;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  /* padding: 0 50px; */
+
+}
